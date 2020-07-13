@@ -1,0 +1,4 @@
+2020-05-10 21:14:12,164 common_log.py[line:36] INFO: info9999
+2020-05-10 21:18:53,387 runcases.py[line:23] INFO: http://127.0.0.1:8000/api/get_event_list/
+2020-05-10 21:18:53,406 runcases.py[line:23] INFO: http://127.0.0.1:8000/api/get_event_list/
+2020-05-10 21:18:53,424 runcases.py[line:23] INFO: http://127.0.0.1:8000/api/get_guest_list/

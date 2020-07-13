@@ -1,0 +1,58 @@
+2020-07-11 10:11:36,427 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:11:36,427 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:11:36,427 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:11:36,455 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2020-07-11T12:57:09'}}
+2020-07-11 10:11:36,466 runcases.py[line:41] INFO: 通过
+2020-07-11 10:11:36,466 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:11:36,466 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:11:36,466 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:11:36,475 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2020-07-11T12:57:09'}}
+2020-07-11 10:11:36,486 runcases.py[line:41] INFO: 通过
+2020-07-11 10:11:36,525 runcases.py[line:33] INFO: -----查询嘉宾-----
+2020-07-11 10:11:36,525 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_guest_list/
+2020-07-11 10:11:36,525 runcases.py[line:35] INFO: 请求参数：{'eid': 1, 'phone': '13511886602'}
+2020-07-11 10:11:36,532 runcases.py[line:37] INFO: 响应结果：{'status': 10022, 'message': 'query result is empty'}
+2020-07-11 10:26:01,600 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:26:01,600 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:26:01,600 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:26:01,612 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:26:01,618 runcases.py[line:41] INFO: 通过
+2020-07-11 10:26:01,618 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:26:01,618 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:26:01,618 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:26:01,625 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:26:01,636 runcases.py[line:41] INFO: 通过
+2020-07-11 10:26:01,662 runcases.py[line:33] INFO: -----查询嘉宾-----
+2020-07-11 10:26:01,662 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_guest_list/
+2020-07-11 10:26:01,662 runcases.py[line:35] INFO: 请求参数：{'eid': 1, 'phone': '13511886602'}
+2020-07-11 10:26:01,669 runcases.py[line:37] INFO: 响应结果：{'status': 10022, 'message': 'query result is empty'}
+2020-07-11 10:27:40,620 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:27:40,620 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:27:40,620 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:27:40,633 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:27:40,640 runcases.py[line:41] INFO: 通过
+2020-07-11 10:27:40,640 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:27:40,641 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:27:40,641 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:27:40,649 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:27:40,660 runcases.py[line:41] INFO: 通过
+2020-07-11 10:27:40,698 runcases.py[line:33] INFO: -----查询嘉宾-----
+2020-07-11 10:27:40,698 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_guest_list/
+2020-07-11 10:27:40,698 runcases.py[line:35] INFO: 请求参数：{'eid': 1, 'phone': '13511886602'}
+2020-07-11 10:27:40,708 runcases.py[line:37] INFO: 响应结果：{'status': 10022, 'message': 'query result is empty'}
+2020-07-11 10:27:40,731 runcases.py[line:45] INFO: 失败
+2020-07-11 10:29:36,581 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:29:36,581 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:29:36,581 runcases.py[line:35] INFO: 请求参数：{'eid': 1}
+2020-07-11 10:29:36,593 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 1, 'name': '红米Pro发布会', 'limit': 2000, 'status': True, 'address': '北京会展中心', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:29:36,602 runcases.py[line:41] INFO: 通过
+2020-07-11 10:29:36,602 runcases.py[line:33] INFO: -----查询发布会-----
+2020-07-11 10:29:36,602 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_event_list/
+2020-07-11 10:29:36,602 runcases.py[line:35] INFO: 请求参数：{'eid': 2}
+2020-07-11 10:29:36,625 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'eid': 2, 'name': '苹果iphon6发布会', 'limit': 1000, 'status': True, 'address': '宝安体育馆', 'start_time': '2019-09-09T09:00:00'}}
+2020-07-11 10:29:36,640 runcases.py[line:41] INFO: 通过
+2020-07-11 10:29:36,667 runcases.py[line:33] INFO: -----查询嘉宾-----
+2020-07-11 10:29:36,667 runcases.py[line:34] INFO: 请求url地址：http://127.0.0.1:8000/api/get_guest_list/
+2020-07-11 10:29:36,667 runcases.py[line:35] INFO: 请求参数：{'eid': 2, 'phone': '13511886602'}
+2020-07-11 10:29:36,674 runcases.py[line:37] INFO: 响应结果：{'status': 200, 'message': 'success', 'data': {'realname': 'Jason', 'phone': '13511886602', 'email': 'sign@mail.com', 'sign': True}}
+2020-07-11 10:29:36,681 runcases.py[line:41] INFO: 通过
